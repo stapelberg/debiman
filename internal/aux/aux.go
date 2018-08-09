@@ -12,9 +12,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Debian/debiman/internal/commontmpl"
-	"github.com/Debian/debiman/internal/manpage"
-	"github.com/Debian/debiman/internal/redirect"
+	"github.com/stapelberg/debiman/internal/commontmpl"
+	"github.com/stapelberg/debiman/internal/manpage"
+	"github.com/stapelberg/debiman/internal/redirect"
 )
 
 type Server struct {

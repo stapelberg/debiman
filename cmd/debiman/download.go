@@ -19,9 +19,9 @@ import (
 	"golang.org/x/net/context"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/Debian/debiman/internal/manpage"
-	"github.com/Debian/debiman/internal/recode"
-	"github.com/Debian/debiman/internal/write"
+	"github.com/stapelberg/debiman/internal/manpage"
+	"github.com/stapelberg/debiman/internal/recode"
+	"github.com/stapelberg/debiman/internal/write"
 
 	"pault.ag/go/archive"
 	"pault.ag/go/debian/control"

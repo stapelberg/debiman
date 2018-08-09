@@ -12,7 +12,7 @@ import (
 	"golang.org/x/text/language"
 	"golang.org/x/text/language/display"
 
-	"github.com/Debian/debiman/internal/bundled"
+	"github.com/stapelberg/debiman/internal/bundled"
 )
 
 const iso8601Format = "2006-01-02T15:04:05Z"

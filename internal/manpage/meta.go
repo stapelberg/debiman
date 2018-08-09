@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Debian/debiman/internal/tag"
+	"github.com/stapelberg/debiman/internal/tag"
 	"golang.org/x/text/language"
 	"pault.ag/go/debian/version"
 )

@@ -27,7 +27,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Debian/debiman/internal/redirect"
+	"github.com/stapelberg/debiman/internal/redirect"
 )
 
 var (

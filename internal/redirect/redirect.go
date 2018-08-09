@@ -9,8 +9,8 @@ import (
 	"sort"
 	"strings"
 
-	pb "github.com/Debian/debiman/internal/proto"
-	"github.com/Debian/debiman/internal/tag"
+	pb "github.com/stapelberg/debiman/internal/proto"
+	"github.com/stapelberg/debiman/internal/tag"
 	"github.com/golang/protobuf/proto"
 	"golang.org/x/text/language"
 )

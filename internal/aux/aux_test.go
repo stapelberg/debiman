@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Debian/debiman/internal/redirect"
+	"github.com/stapelberg/debiman/internal/redirect"
 )
 
 var i3OnlyIdx = redirect.Index{

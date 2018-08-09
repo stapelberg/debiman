@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/Debian/debiman/internal/bundled"
-	"github.com/Debian/debiman/internal/manpage"
-	"github.com/Debian/debiman/internal/write"
+	"github.com/stapelberg/debiman/internal/bundled"
+	"github.com/stapelberg/debiman/internal/manpage"
+	"github.com/stapelberg/debiman/internal/write"
 )
 
 var contentsTmpl = mustParseContentsTmpl()

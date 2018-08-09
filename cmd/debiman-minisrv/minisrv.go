@@ -15,10 +15,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Debian/debiman/internal/aux"
-	"github.com/Debian/debiman/internal/bundled"
-	"github.com/Debian/debiman/internal/commontmpl"
-	"github.com/Debian/debiman/internal/redirect"
+	"github.com/stapelberg/debiman/internal/aux"
+	"github.com/stapelberg/debiman/internal/bundled"
+	"github.com/stapelberg/debiman/internal/commontmpl"
+	"github.com/stapelberg/debiman/internal/redirect"
 )
 
 var (

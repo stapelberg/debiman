@@ -15,9 +15,9 @@ import (
 
 	_ "net/http/pprof"
 
-	"github.com/Debian/debiman/internal/bundled"
-	"github.com/Debian/debiman/internal/commontmpl"
-	"github.com/Debian/debiman/internal/write"
+	"github.com/stapelberg/debiman/internal/bundled"
+	"github.com/stapelberg/debiman/internal/commontmpl"
+	"github.com/stapelberg/debiman/internal/write"
 
 	"pault.ag/go/archive"
 )

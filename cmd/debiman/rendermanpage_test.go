@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Debian/debiman/internal/convert"
-	"github.com/Debian/debiman/internal/manpage"
+	"github.com/stapelberg/debiman/internal/convert"
+	"github.com/stapelberg/debiman/internal/manpage"
 )
 
 func mustParseFromServingPath(t *testing.T, path string) *manpage.Meta {

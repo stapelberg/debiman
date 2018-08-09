@@ -13,7 +13,7 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"github.com/Debian/debiman/internal/manpage"
+	"github.com/stapelberg/debiman/internal/manpage"
 
 	"pault.ag/go/archive"
 	"pault.ag/go/debian/control"

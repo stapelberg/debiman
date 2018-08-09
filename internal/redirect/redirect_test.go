@@ -222,7 +222,7 @@ func TestNotFoundWrongSuite(t *testing.T) {
 		t.Fatalf("Unexpected e.Manpage: got %q, want %q", got, want)
 	}
 
-	// See https://github.com/Debian/debiman/issues/79 for details: Previously
+	// See https://github.com/stapelberg/debiman/issues/79 for details: Previously
 	// we returned an error for manpages which were not found, along with the
 	// best choice. Now, we are always redirecting, so we can’t keep the
 	// following test:
